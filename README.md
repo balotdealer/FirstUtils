@@ -30,7 +30,9 @@ This is a list of links and toolkits to download, install, and set up onto a new
 - **[Nvidia App](/www.nvidia.com/en-us/software/nvidia-app/)**  
   
 
-- **[Fan Control](/github.com/Rem0o/FanControl.Releases)**  
+- **[Fan Control](/github.com/Rem0o/FanControl.Releases)**
+
+- **[Chocolatey](/chocolatey.org/)** 
 
 -----------------------------------------------------------------------
 
