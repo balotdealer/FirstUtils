@@ -32,7 +32,7 @@ This is a list of links and toolkits to download, install, and set up onto a new
 
 - **[Fan Control](/github.com/Rem0o/FanControl.Releases)**
 
-- **[Chocolatey](/chocolatey.org/)** 
+- **[Chocolatey]([/github.com/chocolatey/choco)** 
 
 -----------------------------------------------------------------------
 
